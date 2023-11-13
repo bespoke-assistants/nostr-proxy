@@ -1,0 +1,16 @@
+{
+    "relayUrl": "ws://localhost:8008",
+    "assistants": [
+      {
+        "pubkey": "assistant1_pubkey",
+        "privatekey": "assistant1_privatekey",
+        "assistantUrl": "http://assistant1.url"
+      },
+      {
+        "pubkey": "assistant2_pubkey",
+        "privatekey": "assistant2_privatekey",
+        "assistantUrl": "http://assistant2.url"
+      }
+    ]
+  }
+  
